@@ -1,4 +1,4 @@
-<p allign="center">
+<p>
   <a href="https://github.com/wisakejjak">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wisakejjak&theme=vue" />
   </a>
