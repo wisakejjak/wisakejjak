@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://github.com/wisakejjak">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wisakejjak&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wisakejjak&theme=vue" />
   </a>
   <a href="https://github.com/wisakejjak">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wisakejjak&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wisakejjak&hide_border=true&card_width=338&theme=vue" />
   </a>
   <a href="https://github.com/wisakejjak">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wisakejjak&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wisakejjak&theme=vue" />
   </a>
 </p>
 
