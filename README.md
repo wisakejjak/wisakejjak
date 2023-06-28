@@ -10,8 +10,8 @@
 
 <h3 align="center">Contact with me</h3>
 
- #### 📧 wisakejjak@gmail.com
-
+#### Email: wisakejjak@gmail.com
+#### Discord: Wisakejjak, Misakejjak#8536
 <h3 align="center">Languages and Tools</h3>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/>
