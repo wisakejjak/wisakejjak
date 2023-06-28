@@ -17,6 +17,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/I3_window_manager_logo.svg" alt="i3wm" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="vim" width="60" height="60"/>
 </p>
 <p>
   <a href="https://github.com/wisakejjak">
