@@ -8,10 +8,9 @@
   <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a>
 </p>
 
-<h3 align="center">Connect with me</h3>
-<p align="left">
-  📧: wisakejjak@gmail.com
-</p>
+<h3 align="center">Contact with me</h3>
+
+ #### 📧 wisakejjak@gmail.com
 
 <h3 align="center">Languages and Tools</h3>
 <p align="left">
