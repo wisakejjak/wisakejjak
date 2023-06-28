@@ -1,6 +1,11 @@
 <h1 align="center">Hi, I'm Vasiliy Batanov</h1>
 <h3 align="center">Student from Moscow</h3>
 
+<h3 align="left">Currently learning:</h3>
+<p align="left">
+  RTOS (Embox), RunaWFE, Ray tracing, Math (Statistics and decision sciences, Discrete mathematics)
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   Email: wisakejjak@gmail.com
