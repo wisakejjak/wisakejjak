@@ -1,17 +1,19 @@
 <h1 align="center">Hi, I'm Vasiliy Batanov</h1>
-<h3 align="center">Student from Moscow</h3>
-
-<h3 align="left">Currently learning:</h3>
+<h3 align="center">Student from <a href="https://stankin.ru">MSTU "STANKIN"</a></h3>
+<h3 align="center">Currently learning</h3>
 <p align="left">
-  RTOS (Embox), RunaWFE, Ray tracing, Math (Statistics and decision sciences, Discrete mathematics)
+  <a href="https://github.com/embox">Embox</a>,  
+  <a href="https://runawfe.org/RunaWFE_Free_Workflow_System">RunaWFE</a>,
+  <a href="https://en.wikipedia.org/wiki/Markdown">Markdown</a>,
+  <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 <p align="left">
-  Email: wisakejjak@gmail.com
+  📧: wisakejjak@gmail.com
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> 
@@ -24,6 +26,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/I3_window_manager_logo.svg" alt="i3wm" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="vim" width="60" height="60"/>
 </p>
+
+<h3 align="center">Statistic</h3>
 <p>
   <a href="https://github.com/wisakejjak">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wisakejjak&theme=vue" />
