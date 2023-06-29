@@ -30,8 +30,10 @@
 <p>
   <a href="https://github.com/wisakejjak">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wisakejjak&theme=vue" />
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wisakejjak&theme=vue&utcOffset=3" />
   </a>
   <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wisakejjak&show_icons=true&locale=en&layout=compact" alt="wisakejjak" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wisakejjak&theme=vue" />
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wisakejjak&theme=vue" />
   </a>
 </p>
