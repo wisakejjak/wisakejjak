@@ -32,8 +32,4 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wisakejjak&theme=vue" />
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wisakejjak&theme=vue&utcOffset=3" />
   </a>
-  <a>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wisakejjak&theme=vue" />
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wisakejjak&theme=vue" />
-  </a>
 </p>
