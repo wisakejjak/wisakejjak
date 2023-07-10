@@ -25,11 +25,3 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/I3_window_manager_logo.svg" alt="i3wm" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="vim" width="60" height="60"/>
 </p>
-
-<h3 align="center">Statistic</h3>
-<p>
-  <a href="https://github.com/wisakejjak">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wisakejjak&theme=vue" />
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wisakejjak&theme=vue&utcOffset=3" />
-  </a>
-</p>
