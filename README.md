@@ -8,8 +8,9 @@
   <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a>
 </p>
 
-<h3 align="center">Contact with me</h3>
+<h3 align="center">Contacts and social media</h3>
 
+#### HackerRank: https://www.hackerrank.com/wisakejjak
 #### Email: wisakejjak@gmail.com
 #### Discord: Misakejjak#8536
 <h3 align="center">Languages and Tools</h3>
