@@ -14,6 +14,7 @@
 <h3 align="center">Contacts and social media</h3>
 
 #### HackerRank: https://www.hackerrank.com/wisakejjak
+#### Leetcode: https://leetcode.com/wisakejjak
 #### Email: wisakejjak@gmail.com
 #### Discord: Misakejjak#8536
 <h3 align="center">Languages and Tools</h3>
