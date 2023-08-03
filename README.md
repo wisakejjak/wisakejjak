@@ -30,3 +30,8 @@
   <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="vim" width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Artix_logo.svg" alt="artix" width="60" height="60"/>
 </p>
+
+
+<div>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=wisakejjak&label=Profile%20views&color=0e75b6&style=flat" alt="wisakejjak" /> </p>
+</div>
